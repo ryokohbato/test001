@@ -9,7 +9,7 @@
 
 using System;
 
-namespace FizzBuzz
+namespace Hello
 {
   class Program
   {
