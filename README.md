@@ -1,17 +1,24 @@
 # test001
 test
 
-<details><summary>サンプルコード</summary>
+<details><summary>SamSample Code</summary>
 <div>
 
 ```cs
 
-using Systemm;
+using System;
 
-static void Main()
+namespace FizzBuzz
 {
-  Console.WriteLine("Hello, World!");
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello, World!");
+    }
+  }
 }
+
 ```
 
 </div></details>
