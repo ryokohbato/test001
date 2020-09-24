@@ -2,7 +2,7 @@
 
 **Hello, World!**
 
-<details><summary>SamSample Code</summary>
+<details><summary>Sample Code</summary>
 <div>
 
 ```cs
