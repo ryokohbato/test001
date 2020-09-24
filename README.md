@@ -1,9 +1,17 @@
 # test001
 test
 
-<details><summary>サンプルコード</summary><div>
+<details><summary>サンプルコード</summary>
+<div>
 
-\```rb
-puts 'Hello, World'
-\```
+```cs
+
+using Systemm;
+
+static void Main()
+{
+  Console.WriteLine("Hello, World!");
+}
+```
+
 </div></details>
